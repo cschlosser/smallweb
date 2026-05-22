@@ -7561,6 +7561,7 @@ https://christinemarsh.com/index.php/feed
 https://christinephu.com/atom
 https://christitus.com/categories/linux/index.xml
 https://christof.damian.net/index.xml
+https://christoph.is/broadcasting.xml
 https://christoph-rumpel.com/feed
 https://christophedujarric.com/index.xml
 https://christophengelhardt.com/atom
@@ -15195,6 +15196,7 @@ https://jeremymikkola.com/atom.xml
 https://jeremymorrell.dev/rss.xml
 https://jeremywsherman.com/index.xml
 https://jereross.com/feed/
+https://jerey.at/rss.xml
 https://jereze.com/feed.xml
 https://jerf.org/iri/rss.xml
 https://jergling.com/atom
@@ -29831,6 +29833,7 @@ https://wickedga.me/index.xml
 https://wicki.io/posts/index.xml
 https://wickstrom.tech/feed.xml
 https://widowbadass.com/feed
+https://wiesmann.codiferes.net/wordpress/feed
 https://wifivitae.com/feed
 https://wiggle.monster/more/archive/blog/feed.xml
 https://wijet.pl/feed.xml
